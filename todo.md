@@ -1,0 +1,24 @@
+# ProofGuard AI — TODO
+
+- [x] Quantum Shield dark theme (OKLCH colors, glass-card, glow effects)
+- [x] Navbar with CQS badge and mobile menu
+- [x] Home page — hero, agentic loop, pillars, guardrails, ecosystem, badge, CTA
+- [x] CQS Radar Chart component (SVG radial gauge)
+- [x] TraceFlow visualization component (animated decision pipeline)
+- [x] Dashboard page — attestation table, stats, filters, CSV export
+- [x] Controls page — AICM 243 controls matrix with category overview
+- [x] Pricing page — Community/Pro/Enterprise tiers with comparison table
+- [x] Schema & API page — AAS schema, REST API, Python SDK, embed badge, Supabase SQL
+- [x] Synthetic data generator (attestations, controls, guardrails)
+- [x] Database upgrade (web-db-user feature added)
+- [x] Database schema for attestations, guardrails, controls
+- [x] Seed database with 10k synthetic attestations + AICM 243 controls
+- [x] Stripe integration with checkout sessions (Pro $299/mo, Enterprise $2000/mo)
+- [x] Stripe webhook handler for payment events
+- [x] IMDA + AICM compliance export (JSON with full controls + attestation summary)
+- [x] API routes for attestations, guardrails, controls, compliance, seed
+- [x] tRPC-powered Dashboard with live database data
+- [x] tRPC-powered Controls page with live database data
+- [x] Vitest tests for core functionality (11 tests passing)
+- [ ] Push to GitHub repo
+- [ ] Investor one-pager document

@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774288515687,
+      "tag": "0000_luxuriant_hellfire_club",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774288608950,
+      "tag": "0001_abandoned_wrecker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1774288960727,
+      "tag": "0002_bright_gladiator",
+      "breakpoints": true
+    }
+  ]
+}
